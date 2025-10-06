@@ -1,0 +1,19 @@
+airforce one white	2	120
+airforce one black	  9	1080
+Jordan 1 retro blue   	3	   300
+Jordan 4 cactus jack 	6	 2000
+Jordan 1 travis lows 	8	900
+Jordan 4 white cement	9	2200
+Jordan 1 retro grey	6	 1500
+bus(IDE) 	12	 1000
+Jordan 11 cool grey	2	280.0
+Jordan 11 tiffany blue 	2	  530
+Jordan 5 black 	5	 300
+Jordan 5 off white 	3	  600
+Jordan 1 travis scott highs	9	1580
+Nike dunk SB thunders	         8       270
+Nike dunk SB blue	10	130
+Nike dunk SB red	8	100
+Jordan 11 black 	10	  250
+Jordan 1 retro blue	2	200.0
+Jordan 11 space jams	19	300.0
